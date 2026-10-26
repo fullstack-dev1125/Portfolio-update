@@ -58,13 +58,13 @@ export const site = {
   timezone: 'UTC+8',
 
   photo: {
-    /** Head-and-shoulders portrait cut out of its white background, 1000 x 1000, transparent WebP. */
+    /** Head-and-shoulders portrait, 1000 x 1000 WebP. */
     src: '/portrait-cut.webp',
-    /** Same cutout at 520 x 520. */
+    /** Same portrait at 520 x 520. */
     medium: '/portrait-cut-520.webp',
-    /** Original photo on white, 1200 x 1200, for Open Graph and JSON-LD. */
+    /** Original photo, 1200 x 1200, for Open Graph and JSON-LD. */
     jpg: '/portrait.jpg',
-    alt: 'Portrait of Kim Russel Antonio Soriano in a white shirt',
+    alt: 'Portrait of Kim Russel Antonio Soriano in a navy shirt',
     width: 1000,
     height: 1000,
   },
